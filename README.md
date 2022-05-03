@@ -2,7 +2,7 @@
 
 Projeto produzido para um bootcamp da Digital Innovation One.
 
-##Descrição do projet: 
+##Descrição do projeto: 
 
 Neste projeto desenvolvi um jogo da velha utilizando HTML, CSS e Javascript.
 
